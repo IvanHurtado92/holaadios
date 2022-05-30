@@ -1,3 +1,3 @@
 # holaadios
-buenas tardes jeje\n
+buenas tardes jeje
 sale adios
